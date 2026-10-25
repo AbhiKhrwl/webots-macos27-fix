@@ -9,7 +9,7 @@
 Run this single command in Terminal to patch your existing `/Applications/Webots.app` installation:
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/AbhiKhrwl/webots-macos27-fix/main/install.sh](https://raw.githubusercontent.com/AbhiKhrwl/webots-macos27-fix/main/install.sh) | bash
+curl -fsSL https://raw.githubusercontent.com/AbhiKhrwl/webots-macos27-fix/main/install.sh | bash
 ```
 
 Once applied, launch **Webots** normally from **Applications**, **Spotlight**, or the CLI.
